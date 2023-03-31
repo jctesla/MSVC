@@ -1,0 +1,8 @@
+Operaciones vectoriales básicas
+La clase vector proporciona varios métodos para realizar diferentes operaciones en vectores.
+Veremos algunas operaciones vectoriales de uso común en este tutorial:
+
+-Agregar elementos
+-Elementos de acceso
+-Cambiar elementos
+-Quitar elementos

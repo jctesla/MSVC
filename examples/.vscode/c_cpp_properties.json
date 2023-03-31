@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "name": "Win32-ParaArduino",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\CppSpace\\graphic.h\\bgi"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17134.0",
+            "compilerPath": "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++17",
+            "configurationProvider": "${default}",
+            "intelliSenseMode": "msvc-x64"
+        },
+        {
+            "name": "Para Arduino",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Program Files/mingw-w64/gcc 11.2.0-2021/include/c++/11.2.0",
+                "C:/Program Files/mingw-w64/gcc 11.2.0-2021/include/c++/11.2.0/x86_64-w64-mingw32"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17134.0",
+            "compilerPath": "C:/Program Files/mingw-w64/gcc 11.2.0-2021/bin/cpp.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

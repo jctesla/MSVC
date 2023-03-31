@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.asp": "asp",
+    "*.vbs": "asp",
+    "*.inc": "asp",
+    "*.cpp": "cpp",
+    "*.c": "c",
+    "iostream": "cpp",
+    "graphics.h": "c",
+    "string": "cpp",
+    "iosfwd": "cpp"
+  },
+  "terminal.integrated.fontSize": 16
+}

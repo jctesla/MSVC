@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:/CppSpace/graphic/bgi/**",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17134.0",
+            "compilerPath": "C:/Program Files/mingw-w64/gcc 11.2.0-2021/bin/g++.exe",
+            "compilerArgs": [
+                "-lbgi",
+                "-lgdi32",
+                "-lcomdlg32",
+                "-luuid",
+                "-loleaut32",
+                "-lole32"
+            ],
+            "intelliSenseMode": "windows-gcc-x86",
+            "cStandard": "c17",
+            "cppStandard": "c++11"
+        }
+    ],
+    "version": 4
+}
